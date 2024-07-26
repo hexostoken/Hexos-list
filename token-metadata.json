@@ -1,0 +1,13 @@
+{
+  "name": "Hexos Token",
+  "symbol": "HEXOS",
+  "uri": "https://raw.githubusercontent.com/hexostoken/Hexos-list/8e0de2773591b4d7933322c3990a1e6fbea13dc3/HEXOS%20Token.png",
+  "seller_fee_basis_points": 500,
+  "creators": [
+    {
+      "address": "Cn8yvk7kD5AJQ1En6xc52R93xrvsQ4NUkBxaBMd69TzZ",
+      "verified": true,
+      "share": 100
+    }
+  ]
+}
