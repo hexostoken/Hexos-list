@@ -1,7 +1,7 @@
 {
   "name": "Hexos Token",
   "symbol": "HEXOS",
-  "uri": "https://raw.githubusercontent.com/hexostoken/Hexos-list/8e0de2773591b4d7933322c3990a1e6fbea13dc3/HEXOS%20Token.png",
+  "uri": "https://github.com/hexostoken/Hexos-list/blob/main/HEXOS%20Token.png?raw=true",
   "seller_fee_basis_points": 500,
   "creators": [
     {
